@@ -2,10 +2,6 @@
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css');/*Icones */
 
-@media only screen and (max-device-width: 900px) {
-.menu { width:600px; }
-}
-
 *{
     margin: 0;/*Tira as margens*/
     padding: 0;
